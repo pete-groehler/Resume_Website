@@ -12,3 +12,5 @@ Project to create a website to host a resume website, containing self-authored p
 
 # Diagram of Infrastructure:
 
+![Net Diagram](https://github.com/pete-groehler/Resume_Website/assets/140628571/2d712ef5-7452-4bc8-b060-c3dcf7e6200d)
+
